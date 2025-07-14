@@ -1,30 +1,48 @@
-# Calendar Web App 📅
+# Event Calendar
 
-A responsive and user-friendly calendar web application to manage your events efficiently.
+A simple, responsive web calendar that displays events for each day. Events are loaded from a static `event.json` file. No backend or database required.
 
-🌐 **Live Demo:** [calender.pkbehera.in](https://calender.pkbehera.in)
+## Features
 
----
+- Clean, modern UI
+- View events for any date
+- Highlights days with events
+- Responsive design for desktop and mobile
+- All data is loaded from a simple JSON file
 
-## 🚀 Features
+## Usage
 
-- Add new events by selecting a date
-- Edit existing events (no delete)
-- Mobile-friendly and fully responsive
-- Clean and simple UI
+1. **Clone or download this repository.**
+2. Open `index.html` in your browser.
+3. Click on any date to view its events.
+4. To add or edit events, manually update the `event.json` file.
 
----
+## File Structure
 
-## 🛠️ Tech Stack
+- `index.html` — Main HTML file
+- `style.css` — All calendar and event styles
+- `script.js` — Calendar and event logic
+- `event.json` — List of events (edit this file to add events)
+- `web_icon.png` — Favicon
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5
-- **Backend:** PHP
-- **Database:** MySQL
+## Example `event.json`
 
----
+```json
+[
+  { "date": "2025-07-14", "events": ["Sample Event 1", "Sample Event 2"] },
+  { "date": "2025-07-15", "events": ["Another Event"] }
+]
+```
 
-🙋‍♂️ Author
-Pradyumna Behera : [Protofolio](https://pkbehera.in/)
+## Customization
 
-📜 License
-This project is open-source and available under the MIT License.
+- Change colors and layout in `style.css`.
+- Add or remove events in `event.json`.
+
+## License
+
+MIT
+
+## Author
+
+Pradyumna Behera

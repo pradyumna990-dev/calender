@@ -1,0 +1,293 @@
+[
+  {
+    "date": "2025-01-02",
+    "events": ["Chandra Darshana"]
+  },
+  {
+    "date": "2025-01-03",
+    "events": ["Vinayaka Chaturthi", "Skanda Sashti"]
+  },
+  {
+    "date": "2025-01-05",
+    "events": ["Skanda Sashti"]
+  },
+  {
+    "date": "2025-01-06",
+    "events": ["Guru Gobind Singh Jayanti"]
+  },
+  {
+    "date": "2025-01-07",
+    "events": ["Banada Ashtami", "Masik Durgashtami"]
+  },
+  {
+    "date": "2025-01-10",
+    "events": [
+      "Vaikuntha Ekadashi",
+      "Pausha Putrada Ekadashi",
+      "Dharma Savarni Manvadi",
+      "Shani Trayodashi"
+    ]
+  },
+  {
+    "date": "2025-01-11",
+    "events": ["Rohini Vrat", "Pradosh Vrat", "Swami Vivekananda Jayanti"]
+  },
+  {
+    "date": "2025-01-12",
+    "events": ["National Youth Day", "Shakambhari Purnima"]
+  },
+  {
+    "date": "2025-01-13",
+    "events": [
+      "Arudra Darshan",
+      "Bhogi Pandigai / Lohri",
+      "Pausha Purnima Vrat"
+    ]
+  },
+  {
+    "date": "2025-01-14",
+    "events": ["Makar Sankranti", "Pongal", "Uttarayana"]
+  },
+  {
+    "date": "2025-02-02",
+    "events": ["Vasant Panchami / Saraswati Puja"]
+  },
+  {
+    "date": "2025-02-12",
+    "events": ["Magha Purnima Vrat"]
+  },
+  {
+    "date": "2025-02-26",
+    "events": ["Maha Shivaratri "]
+  },
+  {
+    "date": "2025-03-01",
+    "events": ["Phulera Dooj", "Ramakrishna Jayanti", "Chandra Darshana"]
+  },
+  {
+    "date": "2025-03-03",
+    "events": ["Vinayaka Chaturthi", "Skanda Sashti"]
+  },
+  {
+    "date": "2025-03-06",
+    "events": ["Rohini Vrat", "Phalguna Ashtahnika begins"]
+  },
+  {
+    "date": "2025-03-07",
+    "events": ["Masik Durgashtami"]
+  },
+  {
+    "date": "2025-03-10",
+    "events": ["Amalaki Ekadashi", "Narasimha Dwadashi"]
+  },
+  {
+    "date": "2025-03-11",
+    "events": ["Pradosh Vrat"]
+  },
+  {
+    "date": "2025-03-12",
+    "events": ["Masi Magam"]
+  },
+  {
+    "date": "2025-03-13",
+    "events": [
+      "Chhoti Holi",
+      "Holika Dahan",
+      "Phalguna Purnima Vrat",
+      "Dol Purnima"
+    ]
+  },
+  {
+    "date": "2025-03-14",
+    "events": [
+      "Holi ",
+      "Chaitanya Mahaprabhu Jayanti",
+      "Vasanta Purnima",
+      "Savarni Manvadi"
+    ]
+  },
+  {
+    "date": "2025-04-01",
+    "events": ["Masik Karthigai", "Vinayaka Chaturthi"]
+  },
+  {
+    "date": "2025-04-02",
+    "events": ["Lakshmi Panchami"]
+  },
+  {
+    "date": "2025-04-03",
+    "events": ["Yamuna Chhath", "Rohini Vrat", "Skanda Sashti"]
+  },
+  {
+    "date": "2025-04-04",
+    "events": ["Chaitra Navapada Oli begins"]
+  },
+  {
+    "date": "2025-04-05",
+    "events": ["Masik Durgashtami"]
+  },
+  {
+    "date": "2025-04-06",
+    "events": ["Rama Navami", "Swaminarayan Jayanti", "Tara Jayanti"]
+  },
+  {
+    "date": "2025-04-10",
+    "events": ["Mahavir Jayanti "]
+  },
+  {
+    "date": "2025-05-01",
+    "events": ["International Workers' Day", "Vinayaka Chaturthi"]
+  },
+  {
+    "date": "2025-05-02",
+    "events": ["Shankaracharya Jayanti", "Surdas Jayanti", "Ramanuja Jayanti"]
+  },
+  {
+    "date": "2025-05-03",
+    "events": ["Ganga Saptami"]
+  },
+  {
+    "date": "2025-05-04",
+    "events": ["Bhanu Saptami", "Agni Nakshatram begins"]
+  },
+  {
+    "date": "2025-05-05",
+    "events": ["Sita Navami", "Masik Durgashtami"]
+  },
+  {
+    "date": "2025-05-07",
+    "events": ["Thrissur Pooram"]
+  },
+  {
+    "date": "2025-05-08",
+    "events": ["Mohini Ekadashi", "Parashurama Dwadashi"]
+  },
+  {
+    "date": "2025-05-11",
+    "events": ["Narasimha Jayanti", "Mother’s Day"]
+  },
+  {
+    "date": "2025-05-12",
+    "events": ["Buddha Purnima", "Vaishakha Purnima Vrat"]
+  },
+  {
+    "date": "2025-05-26",
+    "events": ["Vat Savitri Vrat", "Darsha Amavasya"]
+  },
+  {
+    "date": "2025-05-27",
+    "events": ["Shani Jayanti", "Jyeshtha Amavasya"]
+  },
+  {
+    "date": "2025-06-01",
+    "events": ["Skanda Sashti"]
+  },
+  {
+    "date": "2025-06-05",
+    "events": ["Ganga Dussehra", "Nirjala Ekadashi"]
+  },
+  {
+    "date": "2025-06-07",
+    "events": ["Eid‑ul‑Adha "]
+  },
+  {
+    "date": "2025-06-27",
+    "events": ["Ratha Yatra begins in Puri"]
+  },
+  {
+    "date": "2025-06-27 to 2025-07-05",
+    "events": ["Ratha Yatra duration"]
+  },
+  {
+    "date": "2025-07-06",
+    "events": ["Devshayani Ekadashi", "Muharram "]
+  },
+  {
+    "date": "2025-07-10",
+    "events": ["Guru Purnima", "Ashadha Purnima Vrat"]
+  },
+  {
+    "date": "2025-07-11 to 2025-08-09",
+    "events": ["Shravana/Sawan month"]
+  },
+  {
+    "date": "2025-07-14",
+    "events": ["First Shravan Somwar Vrat"]
+  },
+  {
+    "date": "2025-07-15",
+    "events": ["First Mangala Gauri Vrat"]
+  },
+  {
+    "date": "2025-07-16",
+    "events": ["Karka Sankranti"]
+  },
+  {
+    "date": "2025-07-17",
+    "events": ["Kalashtami", "Masik Krishna Janmashtami"]
+  },
+  {
+    "date": "2025-07-21",
+    "events": ["Second Shravan Somwar Vrat", "Rohini Vrat"]
+  },
+  {
+    "date": "2025-07-22",
+    "events": ["Second Mangala Gauri Vrat"]
+  },
+  {
+    "date": "2025-07-23",
+    "events": ["Sawan Shivaratri"]
+  },
+  {
+    "date": "2025-07-24",
+    "events": ["Hariyali Amavasya"]
+  },
+  {
+    "date": "2025-07-27",
+    "events": ["Hariyali Teej"]
+  },
+  {
+    "date": "2025-07-28",
+    "events": ["Third Shravan Somwar Vrat", "Vinayaka Chaturthi"]
+  },
+  {
+    "date": "2025-08-12",
+    "events": ["Kajari Teej"]
+  },
+  {
+    "date": "2025-08-15",
+    "events": ["Independence Day "]
+  },
+  {
+    "date": "2025-08-26",
+    "events": ["Hartalika Teej"]
+  },
+  {
+    "date": "2025-09-07",
+    "events": ["Bhadrapada Purnima Vrat"]
+  },
+  {
+    "date": "2025-10-02",
+    "events": ["Gandhi Jayanti ", "Durga Ashtami / Dussehra"]
+  },
+  {
+    "date": "2025-10-20",
+    "events": ["Diwali "]
+  },
+  {
+    "date": "2025-10-22",
+    "events": ["Govardhan Puja"]
+  },
+  {
+    "date": "2025-10-23",
+    "events": ["Bhai Dooj"]
+  },
+  {
+    "date": "2025-11-05",
+    "events": ["Kartika Purnima Vrat", "Guru Tegh Bahadur’s Martyrdom Day"]
+  },
+  {
+    "date": "2025-12-25",
+    "events": ["Christmas "]
+  }
+]
