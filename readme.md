@@ -1,48 +1,25 @@
-# Event Calendar
+# Simple Calendar with Digital Clock
 
-A simple, responsive web calendar that displays events for each day. Events are loaded from a static `event.json` file. No backend or database required.
+A clean and responsive web-based calendar application featuring a real-time digital clock. This project provides a basic calendar view and a dynamic clock display, built with standard web technologies.
 
 ## Features
 
-- Clean, modern UI
-- View events for any date
-- Highlights days with events
-- Responsive design for desktop and mobile
-- All data is loaded from a simple JSON file
+- **Digital Clock:** Displays the current time in a clear, digital format.
+- **Calendar View:** Shows the days of the current month, with navigation to previous and next months.
+- **Current Day Highlight:** The current day is highlighted for easy identification.
+- **Responsive Design:** Adapts to various screen sizes for optimal viewing on desktop and mobile devices.
 
-## Usage
+## How to Use/Run
 
-1. **Clone or download this repository.**
-2. Open `index.html` in your browser.
-3. Click on any date to view its events.
-4. To add or edit events, manually update the `event.json` file.
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/pradyumna990-dev/calender.git
+    cd calender
+    ```
+2.  **Open `index.html`:** Simply open the `index.html` file in your preferred web browser.
 
-## File Structure
+## Technologies Used
 
-- `index.html` — Main HTML file
-- `style.css` — All calendar and event styles
-- `script.js` — Calendar and event logic
-- `event.json` — List of events (edit this file to add events)
-- `web_icon.png` — Favicon
-
-## Example `event.json`
-
-```json
-[
-  { "date": "2025-07-14", "events": ["Sample Event 1", "Sample Event 2"] },
-  { "date": "2025-07-15", "events": ["Another Event"] }
-]
-```
-
-## Customization
-
-- Change colors and layout in `style.css`.
-- Add or remove events in `event.json`.
-
-## License
-
-MIT
-
-## Author
-
-Pradyumna Behera
+- HTML5
+- CSS3
+- JavaScript

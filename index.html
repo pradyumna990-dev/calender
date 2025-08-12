@@ -4,38 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Event Calendar</title>
-    <link rel="icon" type="image/png" href="web_icon.png" />
+    <link rel="icon" type="image/png" href="image/web_icon.png" />
     <meta
       name="description"
       content="Eye-catching responsive event calendar."
     />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="src/style.css" />
   </head>
   <body>
-    <nav class="navbar">
-      <div class="navbar-title">Festival Calendar</div>
-    </nav>
-    <div class="calendar-simple-container">
-      <div class="calendar-header">
-        <button id="prev">‹</button>
-        <h2 id="monthYear"></h2>
-        <button id="next">›</button>
-      </div>
-      <div class="calendar" id="calendar"></div>
-      <div class="event-view">
-        <h3>Events for <span id="selectedDate">None</span></h3>
-        <ul id="eventList"></ul>
+    <div class="container">
+      <div id="digitalClock" class="digital-clock"></div>
+      <div class="calendar-container">
+        <div class="calendar-header">
+          <button id="prevMonth">‹</button>
+          <h2 id="monthYear"></h2>
+          <button id="nextMonth">›</button>
+        </div>
+        <div class="calendar-grid" id="calendar"></div>
       </div>
     </div>
 
-    <div class="calendar-desc">
-      <p>
-        This festival calendar shows major Indian festivals and holidays for the
-        year 2025. Click any date to view its events. Data is for reference
-        only.
-      </p>
-    </div>
-
-    <script src="script.js"></script>
+    <script src="src/script.js"></script>
   </body>
 </html>
